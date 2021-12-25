@@ -1,2 +1,2 @@
-# first_git_project
-it is my first git project i wanna use this project in android studio
+# git_first_project
+my first github project i wanna use in android studio
